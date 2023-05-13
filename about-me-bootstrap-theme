@@ -1,0 +1,62 @@
+---
+title: About Me - Personal Portfolio Bootstrap 5 Theme 
+github: https://github.com/easetemplates/about-me-personal-portfolio-website-template
+price: 0 # only for premium theme
+demo: https://preview.easetemplate.com/aboutme/
+author: Author # EaseTemplate
+author_link: easetemplate.com/ # if any
+date: 2023-01-29T00:00:00.000Z # submit date
+description: Simple Personal Website Template, built with bootstrap and vite js project.  
+ssg: # ssg name
+  - Hugo
+  - Nextjs
+  - Astro
+  - Jekyll
+  - Eleventy
+  - Nuxtjs
+  - Hexo
+  - Gatsby
+
+css: # css name
+  - Tailwind
+  - Bootstrap
+  - Bulma
+  - Chakra
+  - SCSS
+  - PostCSS
+  - Mui
+  - Stylus
+
+cms: # you can choose multiple if applicable
+  - Tina
+  - Cloudcannon
+  - Datocms
+  - Sanity
+  - Contentful
+  - Forestry
+  - Ghost
+  - Graphcms
+  - Decap
+  - Spinal 
+  - Markdown
+  
+category: # you can choose multiple if applicable
+  - Business
+  - Blog
+  - Portfolio
+  - Boilerplate
+  - Documentation
+  - Ecommerce
+  - Saas
+  - Dashboard
+
+draft: false
+---
+
+## Key Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+- Feature 4
+- Feature 5
